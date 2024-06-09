@@ -31,3 +31,5 @@ To run this game locally:
 
 **1.Clone the repository:**
 
+**2.Git Workflow**
+
