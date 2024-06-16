@@ -15,6 +15,7 @@ The result is displayed based on the user and computer choices.
 The score is updated and displayed dynamically.
 
 **Screenshots**
+<br>
 Here are some screenshots of the game for better understanding:
 ![Screenshot 2024-06-16 090242](https://github.com/Ajayyadav0001/RockPaperScissorsGame../assets/131473262/45250ddf-1ffc-4876-9779-b841c6acd0de)
 ![Screenshot 2024-06-16 090315](https://github.com/Ajayyadav0001/RockPaperScissorsGame../assets/131473262/48753895-53e0-4812-bd0d-c55f2c0ad04b)
