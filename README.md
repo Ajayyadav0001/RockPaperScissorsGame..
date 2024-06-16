@@ -1,4 +1,4 @@
-Rock Paper Scissors Game
+<h1>Rock Paper Scissors Game</h1>
 Welcome to the Rock Paper Scissors Game repository! In this project, I've created a simple yet fun Rock Paper Scissors game using HTML, CSS, and JavaScript. The game allows users to play against the computer, keeping track of the score and updating the result based on user and computer choices.
 
 Description
