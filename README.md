@@ -1,14 +1,14 @@
-Rock Paper Scissors Game
+<h1>Rock Paper Scissors Game</h1>
 Welcome to the Rock Paper Scissors Game repository! In this project, I've created a simple yet fun Rock Paper Scissors game using HTML, CSS, and JavaScript. The game allows users to play against the computer, keeping track of the score and updating the result based on user and computer choices.
 
-Description
+<h2>Description</h2>
 In this repository, I have developed a Rock Paper Scissors game using HTML, CSS, and JavaScript. The complete game logic is implemented in JavaScript, which includes:
 
 Showing the game score.
 Changing the result based on user choice input using addEventListener.
 Generating computer choice using Math.random().
 Handling various other game functionalities.
-Features
+<h2>Features</h2>
 User can select Rock, Paper, or Scissors.
 Computer makes a random choice.
 The result is displayed based on the user and computer choices.
