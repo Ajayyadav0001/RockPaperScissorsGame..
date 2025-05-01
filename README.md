@@ -15,7 +15,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML**, **CS
 
 ## 📸 Preview
 
-![Game Screenshot](Image/Output.png)  
+![Game Screenshot](Images/Output.png)  
 
 
 ---
