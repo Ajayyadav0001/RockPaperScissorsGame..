@@ -1,40 +1,91 @@
-<h1>Rock Paper Scissors Game</h1>
-Welcome to the Rock Paper Scissors Game repository! In this project, I've created a simple yet fun Rock Paper Scissors game using HTML, CSS, and JavaScript. The game allows users to play against the computer, keeping track of the score and updating the result based on user and computer choices.
+Here’s a well-structured **README.md** for a **Rock Paper Scissors game** built with **HTML, CSS, and JavaScript**. You can customize the details to match your own implementation or GitHub repo.
 
-Description
-In this repository, I have developed a Rock Paper Scissors game using HTML, CSS, and JavaScript. The complete game logic is implemented in JavaScript, which includes:
+---
 
-Showing the game score.
-Changing the result based on user choice input using addEventListener.
-Generating computer choice using Math.random().
-Handling various other game functionalities.
-Features
-User can select Rock, Paper, or Scissors.
-Computer makes a random choice.
-The result is displayed based on the user and computer choices.
-The score is updated and displayed dynamically.
-Screenshots
-Here are some screenshots of the game for better understanding:
+# 🪨📄✂️ Rock Paper Scissors Game
 
-Game Interface
-Game Interface
+A simple and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer and test your luck!
 
-Computer Wins
-User Wins
+## 🎮 Demo
 
-Tie
-Computer Wins
+> [Live Demo](https://ajayyadav0001.github.io/RockPaperScissorsGame../) 
+(Swap this link with your deployed site, e.g., GitHub Pages or Netlify)
 
-User Wins
-Tie
+---
 
-How to Play
-Open index.html in your browser.
-Choose Rock, Paper, or Scissors by clicking on the respective icon.
-The computer will make its choice.
-The result will be displayed along with the updated score.
-Installation
-To run this game locally:
+## 📸 Preview
 
-Clone the repository:
-git clone https://github.com/sudhanshu25012002/stone-paper-scissor-JavaScript.git
+![Game Screenshot](Image/Output.png)  
+
+
+---
+
+## ⚙️ Features
+
+- 🎲 Play against a computer
+- 🧠 Computer generates random choices
+- 📊 Score tracking
+- ✨ Responsive design
+- 🔁 Replayable rounds
+
+---
+
+## 🛠️ Built With
+
+- **HTML** – Structure of the game
+- **CSS** – Styling and layout
+- **JavaScript** – Game logic and interactivity
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/yourusername/rock-paper-scissors.git
+cd rock-paper-scissors
+open index.html
+```
+
+Or simply open `index.html` in your browser.
+
+---
+
+## 📂 File Structure
+
+```
+rock-paper-scissors/
+│
+├── index.html      # Main HTML file
+├── style.css       # CSS styles
+└── script.js       # Game logic
+```
+
+---
+
+## 🧠 Game Logic
+
+- Player selects Rock, Paper, or Scissors.
+- Computer randomly picks a choice.
+- Game compares the two and declares the winner.
+- Score is updated accordingly.
+
+---
+
+## 💡 Future Enhancements
+
+- Add sound effects
+- Add animation transitions
+- Include difficulty levels
+- Multiplayer mode (local)
+
+---
+
+## 🙌 Acknowledgements
+
+- JavaScript DOM manipulation concepts
+- Inspiration from classic childhood games
+
+---
+
